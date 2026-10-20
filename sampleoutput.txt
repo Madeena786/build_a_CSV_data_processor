@@ -1,0 +1,7 @@
+Employee Salary Report
+-----------------------
+Number of employees: 5
+Total salary: 175000.0
+Average salary: 35000.0
+Highest salary: 45000.0
+Lowest salary: 25000.0
